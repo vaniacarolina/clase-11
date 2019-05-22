@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400|Staatliches&display=swap');
+
+h1
+{font-family: 'Staatliches', cursive;
+ letter-spacing:  0.2rem;
+ text-shadow: 2px 2px 2px black, -2px -2px 2px gray;
+ }
+
+h2, h3{font-family: 'Raleway', sans-serif;
+font-weight: 400;}
+
+div#mapid {
+  width: 100%;
+  height: 100vh;}
+
+div#monito{
+  width: 100%;
+  height: 50vh;
+background: :silver;
+}
